@@ -1,0 +1,4 @@
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\bin\WCFUploadService.dll
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\bin\WCFUploadService.pdb
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\obj\Release\WCFUploadService.dll
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\obj\Release\WCFUploadService.pdb

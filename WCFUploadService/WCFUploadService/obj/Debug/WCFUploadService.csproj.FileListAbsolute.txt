@@ -1,0 +1,5 @@
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\bin\WCFUploadService.dll
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\bin\WCFUploadService.pdb
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\obj\Debug\WCFUploadService.csprojResolveAssemblyReference.cache
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\obj\Debug\WCFUploadService.dll
+E:\Agile\Vijay\Practice\WCFUploadService\WCFUploadService\obj\Debug\WCFUploadService.pdb
